@@ -10,3 +10,9 @@
     top: 0;
     left: 0;
 }
+
+.topnav {
+    margin: 0;
+    padding: 8px;
+    display: block;
+}
