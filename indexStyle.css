@@ -3,3 +3,10 @@
     padding: 20px;
     background-color: white;
 }
+
+.logo {
+    width: 20px;
+    height: 20px;
+    top: 0;
+    left: 0;
+}
