@@ -1,0 +1,42 @@
+.header {
+    text-align: left;
+    padding: 20px;
+    background-color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    text-align: center;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+} 
+
+img {
+    width: 40px;
+    height: 40px;
+    padding: 1px;
+    padding-top: 3px;
+    padding-left: 3px;
+    background-color: #111;
+}
+
+
